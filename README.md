@@ -22,7 +22,7 @@ As of current, Lemon contains the following features:
 </ul>
 
 ## How to use
-When you first open Lemon, you will find a small window with a timer on it and nothing else. With the app selected, you can scroll down and across with a trackpad or mouse to view some basic settings and controls.
+When you first open Lemon, you will find a small window with a timer on it and nothing else. With the app selected, you can scroll down and across with a trackpad or mouse or adjust the window size to view some basic settings and controls.
 
 ### Start Button
 The start button will start the timer. It will also resume the timer if it has been paused previously.
