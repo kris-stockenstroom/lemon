@@ -85,3 +85,13 @@ If you find any issues with the application, need help with using it or think th
 © 2022 Kristoffer Stockenstroom. All rights reserved.
 
 # Patch Notes:
+## v0.1
+Welcome, welcome. This is the first public release of the Lemon Speedrunning Timer for macOS. To get started, download lemon-darwin-x64-0.1.0.zip.
+
+Features:
+<ul>
+  <li>a timer</li>
+  <li>a window that is always on top, even on fullscreen apps</li>
+  <li>a customisable global hotkey</li>
+  <li>some customisability options</li>
+</ul>
