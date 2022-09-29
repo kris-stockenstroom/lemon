@@ -45,7 +45,7 @@ The window can be resized by dragging its corners and edges. To move the window 
 ![Moving and Resizing GIF](https://github.com/kris-stockenstroom/lemon/blob/main/readme-images/moveAndResize.gif)
 
 ## Options
-The app features a variety of options underneath the control buttons, all of which provide customisability to the app.
+Note: The GIFs below are from v0.1 of Lemon and are not entirely accurate. In order to access the settings, in the menu-bar go to Lemon > Setings...
 
 ### Timer Decimal Format
 This setting allows you to pick from four options:
